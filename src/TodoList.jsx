@@ -42,7 +42,7 @@ function TodoList(){
 
     return (
         <div>
-            <h1>Lista de Tareas</h1>
+            <h1>Lista de Tarefas</h1>
             <form autoComplete="off" onSubmit={adicionaItem}>
                 <input autoComplete="off" id="input-entrada"
                 type="text" 
